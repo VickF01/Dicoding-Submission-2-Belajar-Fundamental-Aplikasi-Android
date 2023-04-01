@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">"Github User"</string>
+    <string name="search_username">Search Username</string>
+    <string name="username">Username</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="followers">100 Followers</string>
+    <string name="following">100 Following</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="followers_num">%s Followers</string>
+    <string name="following_num">%s Following</string>
+    <string name="settings">Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="fav_user">Favorite User</string>
+    <string name="favorite_user">Favorite User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
